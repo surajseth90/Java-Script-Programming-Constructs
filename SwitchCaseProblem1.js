@@ -35,4 +35,3 @@ switch(digit){
         break;  
     default:
         console.log("Invalid Input!!");
-}
