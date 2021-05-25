@@ -1,4 +1,4 @@
-// Printing Number Units bye name
+// Printing Number Units by name
 
 let digit = process.argv;
 if(digit==1)
