@@ -1,0 +1,1 @@
+Prinitng Single Digit Number By Thier Word name using switch cases
